@@ -43,7 +43,7 @@ I enjoy blending **programming** and **teaching** to deliver solutions that are 
 ### 📱 ETNOCHEM
 Mobile and web-based chemistry education platform enhanced with AR & local culture.  
 🛠 Built with React Native.  
-🔗 [View Repository](https://github.com/msyiham/etnochem)
+🔗 [View Repository](https://github.com/msyiham/EtnochemApp)
 
 <!-- ### 🧾 Absensi Guru Ngaji
 Attendance web app for Islamic teachers with Hijri calendar and monthly recap.  
