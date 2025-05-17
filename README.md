@@ -56,9 +56,10 @@ Attendance web app for Islamic teachers with Hijri calendar and monthly recap.
 ## 🧠 Experience
 
 - 💻 **Freelancer Programmer** @ Biru Indonesia Creative (2023 - Present)
+- 🎨 **FrontEnd Programmer** @ Biru Indonesia Creative (2024)
 - 📱 **Programmer App & Website** @ ETNOCHEM PKM-K (2023)
-- 🧑‍🏫 **Software Engineering Teaching Assistant** @ State University of Malang (Feb - May 2024)
-- 👨‍🏫 **Assistant Lecturer Web Programming** @ UM (Sep - Dec 2024)
+- 🧑‍🏫 **Software Engineering Teaching Assistant** @ SMKN 1 Kepanjen  (Feb - May 2024)
+- 👨‍🏫 **Assistant Lecturer Web Programming** @ State University of Malang (Sep - Dec 2024)
 
 ---
 
@@ -67,8 +68,6 @@ Attendance web app for Islamic teachers with Hijri calendar and monthly recap.
 - 🎓 **Bachelor of Informatics Education**  
   State University of Malang (2021 - 2025)
 
-- 🏫 **SMKN 1 Kepanjen**  
-  Software Engineering Track
 
 ---
 
