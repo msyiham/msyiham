@@ -19,7 +19,7 @@ I enjoy blending **programming** and **teaching** to deliver solutions that are 
 ## 🔗 Let's Connect
 
 - 🌐 [Website Portfolio](https://msyiham.netlify.app)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-syiham-alfaruq-9039582b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📫 [Email](mailto:msyihamalfaruq3478@gmail.com)
 - 🧰 [GitHub](https://github.com/msyiham)
 
